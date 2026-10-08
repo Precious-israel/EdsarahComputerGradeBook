@@ -1,0 +1,23 @@
+# Compiled Java class files
+*.class
+bin/
+
+# VS Code settings (optional - keep if you want to share settings)
+# .vscode/
+
+# IDE folders
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+out/
+build/
+target/
+data/
