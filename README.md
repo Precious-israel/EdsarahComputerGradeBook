@@ -12,7 +12,7 @@ managing student records and their grades. Users can add, remove, update,
 and search for students, assign grades, view class statistics, and persist
 all data to a text file so it is retained between sessions.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/0c1te0ioRDI)
 
 ## Development Environment
 
